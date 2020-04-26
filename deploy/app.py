@@ -3,12 +3,7 @@ from flask import Flask, flash, request, redirect, url_for, send_from_directory
 import flask
 import praw
 import joblib
-# from nltk import word_tokenize
-# from nltk.corpus import stopwords
-# from nltk.stem.porter import PorterStemmer
-import os 
-# port = int(os.environ.get('PORT', 5000)) 
-# from tokenize1 import tokenizer
+
 
 app = Flask(__name__)
 
@@ -64,6 +59,4 @@ def hello():
 
 
 if __name__ == "__main__":
-    # count_model = joblib.load("count_vectors.sav")
-    # wordtokenize.__main__ = wordtokenize
-    app.run()
+     app.run(host='0.0.0.0', debug=True)

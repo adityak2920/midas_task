@@ -31,7 +31,7 @@
 
 SVD - Singular Value Decompostion used in svm-classifier notebook.                                                             
 SVD_SC - SVD with Scaling used in svm-classifier notebook.                                                                     
-SMOTE_C - SMOTE oversampling with Count Vectors used in machine-learning notebook.
+SMOTE_C - SMOTE oversampling with Count Vectors used in machine-learning notebook.                                             
 SVM - The results are shown for SGDClassfier.
 
 **NOTE**: The table above doesn't contain results or we can say columns to show full comparison. It just shows the best of results.

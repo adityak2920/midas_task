@@ -26,6 +26,7 @@
    
    After all these tries and 2 days of debugging, it still not working.
    
-   
+   I have also included CSVs in data which are being used in this repositori in ```data``` folder.
+
    **Note: model folder has it's own readme.md so, please read it**
     

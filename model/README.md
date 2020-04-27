@@ -53,3 +53,5 @@ SVM - The results are shown for SGDClassfier.
 1. I have not gone for every posssible combination of classifiers and vectors because it was not necessary.
 2. The hyperparameters which are used are based on different kaggle notebooks that I have seen during my research and learning for this task.
 3. I have only used SMOTE with Logistic Regression because of the above results shown in table we can see logistic regression is best.
+
+### NOTE : I have used Logistic Regression classifier with Count Vectors for deployment.

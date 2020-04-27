@@ -1,7 +1,7 @@
 # MODELS
 
 ## NOTE : I have used Kaggle to run all these above notebooks and link can be found below for the kaggle notebook and saved model weights.
-**NOTE** : Please check the notebook in the way shown below.
+**NOTE** : Please check the notebook in the order shown below.
 
 
   There are a bunch of models with which I have experimented. It includes machine learning and deep learning both. At the same time I have tried augmentations also like oversampling and paraphrashing.

@@ -1,4 +1,4 @@
-# MIDAS TASK
+# Reddit Flair Prediction
   This repository is divided into different parts.
   
    1. Data Collection(Part 1) - It includes code for the collection of data and also includes what all the ways through which I have tried to collect data.

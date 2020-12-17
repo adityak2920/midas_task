@@ -5,7 +5,7 @@ import uvicorn
 from pydantic import BaseModel
 
 
-reddit = praw.Reddit(client_id='NJdBzvaaUnVwQg', client_secret='z2nWItCDkMHYhl2NcXbpRs30yO0', user_agent='reddit scrap')
+reddit = praw.Reddit(client_id='', client_secret='', user_agent='')
 
 flairs = ['AskIndia', 'Business/Finance', 'Coronavirus', 'Non-Political', 'Policy/Economy', 'Politics', 'Science/Technology']
 

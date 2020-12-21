@@ -14,7 +14,7 @@
     d) ```count_vectors.sav``` - The weights of count vectorizer, which is right now being used in heroku deployment.              
     e) `lgr_count.sav` - The weights for the Logistic Regression classifier with count vectors. This weights are being used for deployment on heroku.
 
-   5. Deploy(Part 5) - The app is successfully deployed on heroku, but when I am making a request from postman it's taking longer than 30 seconds. I am trying to resolve this issue. I have tried to run the app using gunicorn in my system and it's successfully running, here is the [video](https://drive.google.com/open?id=1KkbIxj4mRA4iRxAqEFcLFKr1uQee3QGv) to prove. But in heroku, it was not working. According to logs, the worker is crashing. I don't know the reason behind worker crashing.                                                 
+   5. Deploy(Part 5) - The app is successfully deployed on heroku. I am trying to resolve this issue. I have tried to run the app using gunicorn in my system and it's successfully running, here is the [video](https://drive.google.com/open?id=1KkbIxj4mRA4iRxAqEFcLFKr1uQee3QGv) to prove.                                                 
    Here is the link for the app: https://redflairind.herokuapp.com/   
    Link to make request: https://redflairind.herokuapp.com/docs
    
